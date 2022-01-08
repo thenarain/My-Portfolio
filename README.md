@@ -29,9 +29,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Kartikay Srivastava**
 
-- GitHub: [@githubhandle](https://github.com/thenarain)
-- Twitter: [@twitterhandle](https://twitter.com/TheNarainKartik)
-- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/kartikay-srivastava/)
+- GitHub: [@thenarain](https://github.com/thenarain)
+- Twitter: [@TheNarainKartik](https://twitter.com/TheNarainKartik)
+- LinkedIn: [@kartikay-srivastava](https://www.linkedin.com/in/kartikay-srivastava/)
 
 ## 🤝 Contributing
 
