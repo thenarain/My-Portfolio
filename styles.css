@@ -407,7 +407,7 @@ hr {
   height: 590px;
 }
 
-/* contact form start*/
+/* contact form start */
 
 .card-contact {
   display: flex;
@@ -418,8 +418,9 @@ hr {
   height: 779px;
   width: 375px;
   left: 24px;
-  border-radius: 86px 0 0 0;
+  border-radius: 86px 0 0;
   border: 1px solid #dfe1e6;
+
   /* gap: 1em; */
   background-image: url("/Images/contact_form_shapes_mobile.png");
   background-repeat: no-repeat;
@@ -429,15 +430,16 @@ hr {
 
 .contact-text {
   color: #fff;
-  font-style: normal; 
+  font-style: normal;
   font-weight: bold;
   font-size: 40px;
   line-height: 52px;
   margin-top: 103px;
 }
+
 .contact-para {
   color: #ebebff;
-  padding: 12px 24px 12px 24px;
+  padding: 12px 24px;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -450,42 +452,39 @@ hr {
 }
 
 .form-list {
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #cfd8dc;
   border-radius: 8px;
   height: 48px;
   width: 327px;
-  left: 0px;
-  top: 0px;
-  border-radius: 8px;
+  left: 0;
+  top: 0;
   margin-top: 20px;
 }
 
 .form-list1 {
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #cfd8dc;
   border-radius: 8px;
   height: 48px;
   width: 327px;
-  left: 0px;
-  top: 0px;
-  border-radius: 8px;
+  left: 0;
+  top: 0;
   margin-top: 18px;
 }
-
 
 .form-list-textarea {
   height: 170px;
   width: 327px;
-  left: 0px;
-  top: 0px;
+  left: 0;
+  top: 0;
   border-radius: 8px;
   margin-top: 18px;
 }
 
 .form-list-textarea::placeholder {
   padding-left: 16px;
-  padding-top:15px;
+  padding-top: 15px;
 }
 
 .button1 {
@@ -504,18 +503,12 @@ hr {
   margin-top: 22px;
 }
 
-form-content li {
-  text-decoration: none;
-  list-style-type: none;
-}
-
-
-.form-list::placeholder{
+.form-list::placeholder {
   padding-left: 16px;
-  padding-top:15px;
+  padding-top: 15px;
 }
 
-.form-list1::placeholder{
-    padding-left: 16px;
-    padding-top:15px;
+.form-list1::placeholder {
+  padding-left: 16px;
+  padding-top: 15px;
 }
