@@ -420,9 +420,7 @@ hr {
   left: 24px;
   border-radius: 86px 0 0;
   border: 1px solid #dfe1e6;
-
-  /* gap: 1em; */
-  background-image: url("/Images/contact_form_shapes_mobile.png");
+  background-image: url("./Images/contact_form_shapes_mobile.png");
   background-repeat: no-repeat;
   background-position: right;
   margin-top: -113px;
