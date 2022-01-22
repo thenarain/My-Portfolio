@@ -4,7 +4,7 @@
 
 > Setup and mobile version skeleton
 
-![screenshot](./)
+![screenshot](./Images/Setup-mobile-skeleton.png)
 
 ## Built With
 
