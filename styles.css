@@ -359,18 +359,18 @@ li {
   color: #fff;
   font-style: normal;
   font-weight: bold;
-  font-size: 40px;
-  line-height: 52px;
-  margin-top: 103px;
+  font-size: 5vh;
+  line-height: 6vh;
+  margin-top: 10vh;
 }
 
 .contact-para {
   color: #ebebff;
-  padding: 12px 24px;
+  padding: 1.5vh 2.8vh;
   font-style: normal;
   font-weight: normal;
-  font-size: 20px;
-  line-height: 28px;
+  font-size: 2.5vh;
+  line-height: 3.5vh;
   text-align: center;
 }
 
@@ -378,35 +378,20 @@ li {
   list-style-type: none;
 }
 
-.form-list {
+.form-list,
+.form-list1,
+.form-list-textarea {
   background: #fff;
   border: 1px solid #cfd8dc;
   border-radius: 8px;
-  height: 48px;
-  width: 327px;
-  left: 0;
-  top: 0;
-  margin-top: 20px;
-}
-
-.form-list1 {
-  background: #fff;
-  border: 1px solid #cfd8dc;
-  border-radius: 8px;
-  height: 48px;
-  width: 327px;
-  left: 0;
-  top: 0;
-  margin-top: 18px;
+  height: 5.5vh;
+  width: 35.9vh;
+  margin-top: 5vw;
+  padding-left: 1.9vh;
 }
 
 .form-list-textarea {
-  height: 170px;
-  width: 327px;
-  left: 0;
-  top: 0;
-  border-radius: 8px;
-  margin-top: 18px;
+  height: 20vh;
 }
 
 .form-list-textarea::placeholder {
